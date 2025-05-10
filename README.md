@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Wasif Rahman
 
-<!--
-**Was-iiiif/Was-iiiif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a passionate first-year Computer Science and Engineering student pursuing different fields and sectors in computer science. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Exploring different sectors i.g. hardware, embedded systems, IoT etc.
+- 🌱 I’m currently learning: C, C++, HTML
+- 📫 How to reach me: wasifrahman121@gmail.com
+- 🧠 Fun fact: Hitting the gym kills the depression I get from coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-wasif-rahman/))
+
+
+---
+
