@@ -9,7 +9,7 @@ I'm a passionate first-year Computer Science and Engineering student pursuing di
 - 🧠 Fun fact: Hitting the gym kills the depression I get from coding
 
 ## 📎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-wasif-rahman/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-wasif-rahman/)
 
 
 ---
